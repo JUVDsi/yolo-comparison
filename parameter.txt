@@ -1,0 +1,11 @@
+yolov8 model params:-
+Model summary: 225 layers, 11139083 parameters, 11139067 gradients, 28.7 GFLOPs
+Model summary: 225 layers, 11139857 parameters, 11139841 gradients, 28.7 GFLOPs - udacity
+
+
+yolov7 model params:-
+Model Summary: 415 layers, 37239708 parameters, 37239708 gradients, 105.3 GFLOPS
+Model Summary: 415 layers, 37266678 parameters, 37266678 gradients, 105.3 GFLOPS-iruvd
+yolov5 model params:-
+Model summary: 157 layers, 7047883 parameters, 0 gradients, 15.9 GFLOPs
+
