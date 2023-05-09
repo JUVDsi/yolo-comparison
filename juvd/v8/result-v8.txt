@@ -1,0 +1,12 @@
+ Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 29/29 [00:13<00:00,  2.22it/s]
+                   all        913       2497      0.844      0.704      0.817      0.593
+                   Car        913        807      0.903      0.813      0.925      0.736
+                   Bus        913        155      0.875       0.72      0.866      0.601
+             Motorbike        913        582      0.885      0.809      0.903      0.651
+                 Cycle        913        314      0.847       0.74      0.843      0.549
+                 Truck        913         55      0.767       0.54      0.693      0.474
+          Autorickshaw        913        354      0.947      0.828       0.94      0.702
+              Rickshaw        913         66      0.777      0.474      0.627      0.395
+                   Van        913         34      0.788      0.655      0.724      0.581
+             Minitruck        913        130      0.809      0.754      0.832      0.648
+Speed: 0.3ms preprocess, 2.2ms inference, 0.0ms loss, 1.7ms postprocess per image

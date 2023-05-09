@@ -1,0 +1,16 @@
+Ultralytics YOLOv8.0.90 🚀 Python-3.8.10 torch-1.11.0+cu113 CUDA:0 (Quadro M4000, 8124MiB)
+Model summary (fused): 168 layers, 11129841 parameters, 0 gradients, 28.5 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 187/187 [03:20<00:00,  1.07s/it]
+                   all       5960      38640      0.858      0.658      0.753      0.448
+                 biker       5960        684      0.808      0.706      0.779      0.463
+                   car       5960      25609      0.878      0.823      0.868      0.603
+            pedestrian       5960       4250      0.792      0.604      0.703      0.368
+          trafficLight       5960       1014      0.842      0.829      0.864      0.554
+    trafficLight-Green       5960       2144      0.846      0.655      0.752      0.369
+trafficLight-GreenLeft       5960        115      0.771      0.617      0.723      0.423
+      trafficLight-Red       5960       2618      0.897      0.764      0.852      0.522
+  trafficLight-RedLeft       5960        663        0.9      0.757      0.844      0.514
+   trafficLight-Yellow       5960         93      0.845      0.642      0.714      0.341
+trafficLight-YellowLeft       5960          7          1          0      0.301      0.128
+                 truck       5960       1443      0.862      0.837      0.887      0.649
+Speed: 0.4ms preprocess, 28.0ms inference, 0.0ms loss, 1.2ms postprocess per image
